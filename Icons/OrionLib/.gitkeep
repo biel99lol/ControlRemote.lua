@@ -1,0 +1,8 @@
+local playersService = clonerf(game:GetService("Players"))
+local player = playersService.LocalPlayer
+
+
+if (player.Character and player.Character:FindFirstChild("HumanoidRootPart")) and (player.DisplayName == "Biel_TKS" or player.Name == "ROBLOX6666JK") then
+    print("é o biel")
+    getgenv().key2992@$$#011239orionlibmodifield929#v1v2AB = true
+end
